@@ -1,0 +1,16 @@
+# --- Core Framework ---
+streamlit
+python-dotenv
+
+# --- AI & Generative Engine ---
+google-genai==1.74.0
+requests
+
+# --- Multimodal & Media ---
+streamlit-webrtc
+streamlit-mic-recorder
+PyPDF2
+gTTS
+
+# --- Database & Utilities ---
+jsonlib-python3
